@@ -1,0 +1,13 @@
+.BOX1{
+    HEIGHT:100PX;
+    WIDTH:100PX;
+    background-color: aliceblue;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    font-style: italic 700;
+    
+
+}
